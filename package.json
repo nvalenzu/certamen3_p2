@@ -1,0 +1,10 @@
+{
+  "name": "node-api-rest-mongoose",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "~3.6.11",
+    "express": "~4.13.1",
+    "method-override": "^2.1.2",
+    "body-parser": "~1.13.2"
+  }
+}
